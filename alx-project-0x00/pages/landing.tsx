@@ -5,4 +5,5 @@ const Landing: React.FC = () => {
                 Landing Page
             </h1>
         </div>
+    )
 }
